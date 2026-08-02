@@ -204,6 +204,7 @@ Through this project we gained experience in:
 
 **Aymen Ichqarrane**
 
+- GitHub: https://github.com/aymenichqa
 ---
 
 ## 📄 Academic Project
